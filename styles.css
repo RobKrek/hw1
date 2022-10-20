@@ -30,6 +30,10 @@ img {
     margin-right: auto;
   }
 
+.jtext {
+    text-align: justify;
+}
+
 iframe{
     border-width: 0px;
 }
